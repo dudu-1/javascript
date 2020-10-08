@@ -1,4 +1,3 @@
-# mygit
 let MarkMass = 200;
 let MarkHeight = 220;
 let JohnMass = 92;
