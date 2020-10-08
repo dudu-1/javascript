@@ -1,7 +1,8 @@
-let MarkMass = 150;
-let MarkHeight = 170;
-let JohnMass = 120;
-let JohnHeight = 170;
+# mygit
+let MarkMass = 200;
+let MarkHeight = 220;
+let JohnMass = 92;
+let JohnHeight = 162;
 console.log("Mark的BMI:")
 let BMI1 = MarkMass/(MarkHeight*MarkHeight)
 console.log(BMI1.toPrecision(1))
@@ -15,5 +16,4 @@ if(MarkHeight>JohnHeight){
 }
 else{
     console.log('fales')
-}# mygit
-# mygit
+}
